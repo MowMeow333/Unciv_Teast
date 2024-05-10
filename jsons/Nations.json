@@ -5,33 +5,31 @@
 		"adjective": ["animatronic"],
 		"preferredVictoryType": "Scientific",
 		
-		"startIntroPart1": "Hello, hello?",
-		"startIntroPart2": "This is an overpowered joke nation just as an example for the mods feature. Set Phasers to Obliterate!!",
+		"startIntroPart1": "Hello? Hello, hello?",
+		"startIntroPart2": "Uh, I wanted to record a message for you to help you get settled in on your first night.",
 		
 		"declaringWar": "Break off limbs and heads. Pile them up. Easy peasy. Got it.",
-		"attacked": "You want to play? Very funny!",
-		"defeated": "How is it possible that those Apes hurt us? The galactic senate will take care of them.",
-		"introduction": "As superior galactic entities, you are not worthy of our attention.",
+		"attacked": "Now would be a good time to hold your breath.",
+		"defeated": "I always come back!",
+		"introduction": "It looks like someone wasn't ready for Freddy to come to the party!",
 		
-		"neutralHello": "How are you doing?",
-		"neutralLetsHearIt": ["Go on.","What do you say?","You may begin."],
-		"neutralNo": ["We absolutely refuse.","No!","I refuse."],
-		"neutralYes": ["Very good.","Of course, yes.","That is very good."],
+		"neutralHello": "Well, hello again!",
+		"neutralLetsHearIt": "You sure collected a lot of toys!",
+		"neutralNo": "No.",
+		"neutralYes": "Yes.",
 
-		"hateHello": "What do you want now?",
-		"hateLetsHearIt": ["Speak!","What do you say?","Go on."],
-		"hateNo": ["That is not possible!","We are not agreeing to that!","I beg your pardon?"],
-		"hateYes": ["That is fine.","That is good enough.","Very well..."],
+		"hateHello": "It appears you are not tall enough to ride the karts alone.",
+		"hateLetsHearIt": "This is your ten minute warning; the next party needs to set up.",
+		"hateNo": "No.",
+		"hateYes": "Okay.",
 		
-		"afterPeace": "Very well, all that fighting was getting boring anyway.",
-		"tradeRequest": "We bestow you the honor of this trade offer.",
+		"afterPeace": "That sure was fun!",
+		"tradeRequest": "I've prepared a special happy fun time just for you.",
 
-		"outerColor": [16,16,16],
-		"innerColor": [255,200,200],
-		"unique": "MANIFEST_DESTINY",
-		"cities": ["The Hive","Q'Throczan","Q'Chovex","Q'Imphet","Q'Omphead","Q'Grecoks","Q'Vrelzieks","Q'Vronens","Q'Aerlae",
-			"Q'Phulnoith","Q'Creved","Q'Xirqen","Q'Gax","Q'Threqals","Q'Bhilmuk","Q'Mazea","Q'Zomirs","Q'Drorkrex","Q'Honkrath",
-			"Q'Zulgra","Q'Vahars","Q'Crindith","Q'Raavraes","Q'Bhoknais","Qho'Qru","Q'Dateatz","Q'Elnad","Q'Izien","Qol'Ell",
-			"Q'Dhihien","Q'Naquiel","Q'Ugneon","Q'Straquks","Q'Nulptr","Q'Ohfahl"]
+		"outerColor": [132,37,147],
+		"innerColor": [255,248,134],
+		"uniqueName": "Scholars of the Faz Bear",
+        	"uniques": ["[+10 Science] <upon conquering a city>","[+10 Science] <upon founding a city>","[+1 Science] <upon defeating a [Wounded] unit>"],
+		"cities": ["Freddy Fazbear's Pizza","Fredbear's Family Diner","Fazbear's Fright","Circus Baby's Pizza World","Cicus Baby's Entertainment and Rental","Chica's Party World","Freddy Fazbear's Mega Pizzaplex","Silver Parasol Games"]
 	}
 ]
